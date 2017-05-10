@@ -1,6 +1,5 @@
-//Versión PP.
-
-/*function intersection(l1, l2){
+/*Versión PP.
+function intersection(l1, l2){
 	var l3 = [];
 	for(var i = 0; i<l1.length; i++){
 		for(var j = 0; j<l2.length; j++){
